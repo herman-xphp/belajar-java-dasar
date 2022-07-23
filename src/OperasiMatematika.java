@@ -30,7 +30,7 @@ public class OperasiMatematika {
     d--;
     System.out.println(d);
 
-    
+
 
 
   }
