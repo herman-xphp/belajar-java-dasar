@@ -5,7 +5,7 @@ public class Continue {
       if (counter % 2 == 0) {
         continue;
       }
-      
+
       System.out.println("Perulangan Ganjil " + counter);
     }
 
