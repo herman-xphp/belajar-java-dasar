@@ -7,7 +7,7 @@ public class MethodReturnValue {
     System.out.println(sum(100, 200));
 
     System.out.println(hitung(100, "+", 100));
-    
+
   }
 
   static int sum(int value1, int value2) {
